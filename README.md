@@ -41,3 +41,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # muscle-todo
 # muscle-todo
 # ToDo
+
+
+[俺のTwitter](https://twitter.com/strong9999alien "kzmのTwitter")
+<br/>
+
+# あ
+- かしこまりました
+- こんにちは
